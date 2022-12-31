@@ -9,7 +9,7 @@ I've been building mobile and web apps for 1 year, using Flutter.
 * 🌍  I'm based in Antalya, Turkey.
 * 🖥️  See my portfolio at [my GitHub profile](http://github.com/mertcandev)
 * ✉️  You can contact me at [mertcanylmaz@gmail.com](mailto:mertcanylmaz@gmail.com)
-* 🧠  I'm learning SwiftUI
+* 🧠  I'm learning Flutter & SwiftUI
 * 🤝  I'm open to collaborating on Freelance Projects
 
 <a href="https://www.twitter.com/mertcandev" target="_blank" rel="noreferrer"><img
